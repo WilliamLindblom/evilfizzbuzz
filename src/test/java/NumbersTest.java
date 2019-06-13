@@ -2,7 +2,7 @@ import static junit.framework.TestCase.assertTrue;
 
 import org.junit.Test;
 
-public class MainTest {
+public class NumbersTest {
 	@Test
 	public void dummyTest() {
 		assertTrue(true);
